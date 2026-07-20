@@ -1,7 +1,7 @@
-# <div align="center">Hi 👋, I'm Pawan Kumar V</div>
+# <div align="center">Hi 👋, I'm Siranjeevi D </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vpawankumar2025-crypto&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="vpawankumar2025-crypto" />
+  <img src="https://komarev.com/ghpvc/?username=dsiranjeevi26-cmd&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="dsiranjeevi26-cmd" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** who is building strong foundations in programming, web development, Linux, and security tools.
+Hi, I'm **Siranjeevi D**, a passionate **Cyber Security Student (2nd Year)** who is building strong foundations in programming, web development, Linux, and security tools.
 
 - 🔐 Focused on cybersecurity, networking, and ethical hacking fundamentals
 - 💻 Learning and building with Python, C, C++, Java, HTML, CSS, and JavaScript
@@ -70,13 +70,13 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 ## 🌐 Socials
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pawankumarv04">
+  <a href="https://www.linkedin.com/in/siranjeevidhandapani077">
     <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Kumar%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vpawankumar2025-crypto">
+  <a href="https://github.com/dsiranjeevi26-cmd">
     <img src="https://img.shields.io/badge/GitHub-vpawankumar2025--crypto-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/vpawankumar2025-crypto?tab=followers">
+  <a href="https://github.com/dsiranjeevi26-cmd?tab=followers">
     <img src="https://img.shields.io/github/followers/vpawankumar2025-crypto?style=for-the-badge&logo=github&label=Followers" />
   </a>
 </div>
@@ -103,10 +103,10 @@ Hi, I'm **Pawan Kumar V**, a passionate **Cyber Security Student (2nd Year)** wh
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pawankumarv04">
+  <a href="https://www.linkedin.com/in/siranjeevidhandapani077">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vpawankumar2025-crypto">
+  <a href="https://github.com/dsiranjeevi26-cmd">
     <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
