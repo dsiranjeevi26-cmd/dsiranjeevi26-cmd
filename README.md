@@ -74,7 +74,7 @@ Hi, I'm **Siranjeevi D**, a passionate **Cyber Security Student (2nd Year)** who
     <img src="https://img.shields.io/badge/LinkedIn-Siranjeevi%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dsiranjeevi26-cmd">
-    <img src="https://img.shields.io/badge/GitHub-dsiranjeevi26-cmd-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-dsiranjeevi26--cmd-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/dsiranjeevi26-cmd?tab=followers">
     <img src="https://img.shields.io/github/followers/-dsiranjeevi26-cmd?style=for-the-badge&logo=github&label=Followers" />
